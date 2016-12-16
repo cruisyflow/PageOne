@@ -3,10 +3,10 @@
   <channel>
     <title>PageOne Jekyll Bootstrap</title>
     <description>Jekyll Bootstrap Expirement</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Dec 2016 17:18:11 -0400</pubDate>
-    <lastBuildDate>Fri, 16 Dec 2016 17:18:11 -0400</lastBuildDate>
+    <link>http://cruisyflow.github.io/PageOne/docs/</link>
+    <atom:link href="http://cruisyflow.github.io/PageOne/docs/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 16 Dec 2016 17:24:47 -0400</pubDate>
+    <lastBuildDate>Fri, 16 Dec 2016 17:24:47 -0400</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;p&gt;But you can’t pick your friends noses.&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Dec 2016 08:00:00 -0400</pubDate>
-        <link>/cant-pick-nose.html</link>
-        <guid isPermaLink="true">/cant-pick-nose.html</guid>
+        <link>http://cruisyflow.github.io/PageOne/docs/cant-pick-nose.html</link>
+        <guid isPermaLink="true">http://cruisyflow.github.io/PageOne/docs/cant-pick-nose.html</guid>
         
         <category>html</category>
         
@@ -35,8 +35,8 @@
         <description>&lt;p&gt;The early bird catches the worm. If you snooze, you lose.&lt;/p&gt;
 </description>
         <pubDate>Sat, 10 Dec 2016 08:00:00 -0400</pubDate>
-        <link>/fly-like-eagle.html</link>
-        <guid isPermaLink="true">/fly-like-eagle.html</guid>
+        <link>http://cruisyflow.github.io/PageOne/docs/fly-like-eagle.html</link>
+        <guid isPermaLink="true">http://cruisyflow.github.io/PageOne/docs/fly-like-eagle.html</guid>
         
         <category>html</category>
         
@@ -61,8 +61,8 @@
 
 </description>
         <pubDate>Sat, 15 Aug 2015 10:26:34 -0300</pubDate>
-        <link>/sweat-petty-things.html</link>
-        <guid isPermaLink="true">/sweat-petty-things.html</guid>
+        <link>http://cruisyflow.github.io/PageOne/docs/sweat-petty-things.html</link>
+        <guid isPermaLink="true">http://cruisyflow.github.io/PageOne/docs/sweat-petty-things.html</guid>
         
         <category>html</category>
         
