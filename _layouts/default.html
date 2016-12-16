@@ -2,18 +2,16 @@
 
     {% include title-group.html %}
 
-    <main>
+    <article>
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
-                    {% for post in paginator.posts %}
-                        {% include tile.html %}
-                    {% endfor %}
+                <div class="col-md-10 col-md-offset-1">
 
-                    {% include pagination.html %}
+
+                    {{ content }}
                 </div>
             </div>
         </div>
-    </main>
+    </article>
 
 {% include footer.html %}

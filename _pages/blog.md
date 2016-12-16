@@ -1,7 +1,5 @@
 ---
-layout: default
+layout: blogList
 title: Blog
 permalink: /blog/
 ---
-
-<!-- BLANK -->
