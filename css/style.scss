@@ -4,8 +4,8 @@
 @import '../_sass/syntax-highlighting';
 
 
-$scotch-primary: rgb(255, 69, 69);
-$scotch-secondary: #FF7B7B;
+$colour-primary: #2C2D2F;
+$colour-secondary: #2C2D2F;
 
 %oswald { font-family: 'Oswald', sans-serif; }
 %roboto { font-family: 'Roboto Condensed', sans-serif; }
@@ -26,7 +26,7 @@ a {
     outline: none !important;
     text-decoration: none !important;
     transition: all 225ms ease;
-    color: $scotch-secondary;
+    color: $colour-secondary;
 
     &:hover { color: #6165FF; }
 }
@@ -53,7 +53,7 @@ nav.navbar {
 
         i {
             transition: inherit;
-            color: $scotch-primary;
+            color: $colour-primary;
             transform: scale(1);
         }
 
@@ -83,7 +83,7 @@ h1.special {
     font-size: 69px;
     line-height: 69px;
     font-weight: 700;
-    color: $scotch-primary;
+    color: $colour-primary;
 
     span {
         display: inline-block;
