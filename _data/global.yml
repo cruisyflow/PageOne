@@ -2,8 +2,8 @@
 title: 'PageOne Jekyll Bootstrap'
 description: 'Jekyll Bootstrap Expirement'
 # By adding the line below, it makes css links absolute
-baseurl: "/PageOne/" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
-url: 'http://cruisyflow.github.io' # the base hostname & protocol for your site
+#baseurl: "/PageOne/" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
+#url: 'http://cruisyflow.github.io' # the base hostname & protocol for your site
 footer_text: 'This text is footer text. Footer text goes here.'
 
 # Admin Settings

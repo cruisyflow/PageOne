@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>PageOne Jekyll Bootstrap</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2016-12-16T17:18:11-04:00</updated>
+ <id></id>
+ <author>
+   <name>cruisyflow</name>
+   <email>cruisyflow@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Friends Noses</title>
+   <link href="/cant-pick-nose.html"/>
+   <updated>2016-12-11T08:00:00-04:00</updated>
+   <id>/cant-pick-nose</id>
+   <content type="html">&lt;p&gt;But you can’t pick your friends noses.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fly like an Eagle</title>
+   <link href="/fly-like-eagle.html"/>
+   <updated>2016-12-10T08:00:00-04:00</updated>
+   <id>/fly-like-eagle</id>
+   <content type="html">&lt;p&gt;The early bird catches the worm. If you snooze, you lose.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My First Normal Post on Jekyll</title>
+   <link href="/sweat-petty-things.html"/>
+   <updated>2015-08-15T10:26:34-03:00</updated>
+   <id>/sweat-petty-things</id>
+   <content type="html">&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
+
+&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
+
+&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
