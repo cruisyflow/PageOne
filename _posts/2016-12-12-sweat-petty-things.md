@@ -1,15 +1,105 @@
 ---
 layout: blogPost
-title: 'My First Normal Post on Jekyll'
+title: 'Sweat the Petty Things'
 date: 2015-08-15 13:26:34
 categories: blog development
 tags: html css javascript
-lead_text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita maiores quisquam id sunt, a architecto molestias velit, distinctio quidem non, nostrum provident quibusdam enim. Neque ipsam temporibus commodi facere minima.'
+lead_text: "Don't sweat the petty things."
+theimage: "/assets/ky1w7eac5em-maarten-van-den-heuvel.jpg"
 ---
 
-Steve Austin: Astronaut. A man barely alive. Gentlemen... we can rebuild him. We have the technology. We have the capability to make the world's first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.
+And don't pet the sweaty things.
 
-My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I've always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I'm a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it's cold and I figured I'd keep better. Now I'm back in Manhattan. New York, this is your last chance!
+Here is a single responsive image, with rounded corners:
+<a target="_blank" href="/assets/ky1w7eac5em-maarten-van-den-heuvel.jpg">
+	<img class="img-responsive img-rounded" src="/assets/ky1w7eac5em-maarten-van-den-heuvel.jpg" alt="pic" >
+</a>
 
-Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have... then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn't commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.
+Here is a grid of responsive images:
+<div class="row">
+	<div class="col-md-4">
+		<a target="_blank" href="/assets/uf8vqcbq-re-allef-vinicius.jpg">
+			<img class="img-responsive img-rounded" src="/assets/uf8vqcbq-re-allef-vinicius.jpg" alt="pic" >
+		</a>
+	</div>
 
+	<div class="col-md-4">
+		<a target="_blank" href="/assets/e4944k_4svi-buzz-andersen.jpg">
+			<img class="img-responsive img-rounded" src="/assets/e4944k_4svi-buzz-andersen.jpg" alt="pic" >
+		</a>
+	</div>
+	<div class="col-md-4">
+		<a target="_blank" href="/assets/ea4ovoulpzk-quentin-dr.jpg">
+			<img class="img-responsive img-rounded" src="/assets/ea4ovoulpzk-quentin-dr.jpg" alt="pic" >
+		</a>
+	</div>
+	
+	<div class="col-md-4">
+		<a target="_blank" href="/assets/uf8vqcbq-re-allef-vinicius.jpg">
+			<img class="img-responsive img-rounded" src="/assets/uf8vqcbq-re-allef-vinicius.jpg" alt="pic" >
+		</a>
+	</div>
+	<div class="col-md-4">
+		<a target="_blank" href="/assets/e4944k_4svi-buzz-andersen.jpg">
+			<img class="img-responsive img-rounded" src="/assets/e4944k_4svi-buzz-andersen.jpg" alt="pic" >
+		</a>
+	</div>
+
+	<div class="col-md-4">
+		<a target="_blank" href="/assets/ea4ovoulpzk-quentin-dr.jpg">
+			<img class="img-responsive img-rounded" src="/assets/ea4ovoulpzk-quentin-dr.jpg" alt="pic" >
+		</a>
+	</div>
+	
+	<div class="col-md-4">
+		<a target="_blank" href="/assets/e4944k_4svi-buzz-andersen.jpg">
+			<img class="img-responsive img-rounded" src="/assets/e4944k_4svi-buzz-andersen.jpg" alt="pic" >
+		</a>
+	</div>
+
+</div>
+
+Here is a grid of responsive thumbnails. The difference here is the border around the image, and the caption below:
+<div class="row">
+	<div class="col-md-4">
+		<div class="thumbnail">
+			<a target="_blank" href="/assets/e4944k_4svi-buzz-andersen.jpg">
+				<img src="/assets/e4944k_4svi-buzz-andersen.jpg" alt="pic" >
+			</a>
+		</div>
+	</div>
+	<div class="col-md-4">
+		<div class="thumbnail">
+			<a target="_blank" href="/assets/e4944k_4svi-buzz-andersen.jpg">
+				<img src="/assets/e4944k_4svi-buzz-andersen.jpg" alt="pic" >
+			</a>
+			<div class="caption">
+			  <p>A description of the image goes here.</p>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-4">
+		<div class="thumbnail">
+			<a target="_blank" href="/assets/e4944k_4svi-buzz-andersen.jpg">
+				<img src="/assets/e4944k_4svi-buzz-andersen.jpg" alt="pic" >
+			</a>
+			<div class="caption">
+			  <p>Lorem ipsum...</p>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-4">
+		<div class="thumbnail">
+			<a target="_blank" href="/assets/e4944k_4svi-buzz-andersen.jpg">
+				<img src="/assets/e4944k_4svi-buzz-andersen.jpg" alt="pic" >
+			</a>
+			<div class="caption">
+			  <p>Lorem ipsum...</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+ 
+ 
+  
